@@ -1,0 +1,30 @@
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Documents\C#\WebTemplate\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\sasuk\Documents\C#\WebTemplate\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\sasuk\Documents\C#\WebTemplate\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\sasuk\Documents\C#\WebTemplate\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\sasuk\Documents\C#\WebTemplate\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\sasuk\Documents\C#\WebTemplate\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\sasuk\Documents\countrys\Template Creator\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\sasuk\Documents\countrys\Template Creator\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\sasuk\Documents\countrys\Template Creator\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\sasuk\Documents\countrys\Template Creator\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\sasuk\Documents\countrys\Template Creator\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\sasuk\Documents\countrys\Template Creator\obj\Debug\net7.0\ref\WebTemplate.dll

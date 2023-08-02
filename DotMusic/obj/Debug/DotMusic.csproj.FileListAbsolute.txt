@@ -1,0 +1,16 @@
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\bin\Debug\DotMusic.exe.config
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\bin\Debug\DotMusic.exe
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\bin\Debug\DotMusic.pdb
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\obj\Debug\DotMusic.csproj.AssemblyReference.cache
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\obj\Debug\DotMusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\obj\Debug\DotMusic.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\obj\Debug\DotMusic.exe
+C:\Users\sasuk\Documents\countrys\Roma\DotMusic\obj\Debug\DotMusic.pdb
+C:\Users\sasuk\Documents\countrys\DotMusic\bin\Debug\DotMusic.exe.config
+C:\Users\sasuk\Documents\countrys\DotMusic\bin\Debug\DotMusic.exe
+C:\Users\sasuk\Documents\countrys\DotMusic\bin\Debug\DotMusic.pdb
+C:\Users\sasuk\Documents\countrys\DotMusic\obj\Debug\DotMusic.csproj.AssemblyReference.cache
+C:\Users\sasuk\Documents\countrys\DotMusic\obj\Debug\DotMusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasuk\Documents\countrys\DotMusic\obj\Debug\DotMusic.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Documents\countrys\DotMusic\obj\Debug\DotMusic.exe
+C:\Users\sasuk\Documents\countrys\DotMusic\obj\Debug\DotMusic.pdb
